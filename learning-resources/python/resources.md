@@ -18,7 +18,21 @@ python for ai/ml-- not your college yt channel
 
 **Note:** Pura AI/ML roadmap hai — Python basics se lekar NumPy/Pandas tak.
 ============================================================================================================================================================================================
-- [freeCodeCamp Python Course](https://www.freecodecamp.org/learn/scientific-computing-with-python/) — Free full course. ⏳
+#complete machine learning playlish -- sheryians ai school
+**link:** (https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5&si=G00pYIxSSWCeOd9V)
+**total:** 9 videos • Channel: sheryians ai school
+
+### Videos
+- [ ] Complete Machine Learning Course for Beginners | Part 1- Foundation
+- [ ] Part 2 - Supervised Learning | Complete Machine Learning Course for Beginners
+- [ ] Part 3 - Supervised Learning| Classification Algorithms for Beginners
+- [ ] Part 4 - Model Tuning, Ensemble & Unsupervised Learning | Full ML Course
+- [ ] Learn Complete NLP with Project (Bag of Words, Tf-idf) | For Beginners
+- [ ] Deep Learning Complete Course | Part 1| ANN implementation
+- [ ] Deep Learning Complete Course | Part 2| CNN implementation
+- [ ] Deep Learning Complete Course | Part 3| RNN implementation
+- [ ] Deep Learning Complete Course | Part 3| RNN implementation
+
 
 ## Practice
 - [HackerRank Python](https://www.hackerrank.com/domains/python) — Problem solving. ⏳
