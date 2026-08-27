@@ -33,6 +33,7 @@ python for ai/ml-- not your college yt channel
 - [ ] Deep Learning Complete Course | Part 3| RNN implementation
 - [ ] Deep Learning Complete Course | Part 3| RNN implementation
 
+**Note:** pura ml and deep learning roadmap ha - basics sa lakar project banana tak
 
 ## Practice
 - [HackerRank Python](https://www.hackerrank.com/domains/python) — Problem solving. ⏳
