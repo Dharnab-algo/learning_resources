@@ -1,15 +1,11 @@
 # 🌐 Web Development Resources
 
-## HTML/CSS
-- [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) — Best reference, always check yaha pehle. ⏳
-- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) — Free full course. ⏳
+Learn HTML, CSS and JavaScript in Single Video | Basics of MERN Stack Development -- Sheryians Coding School
 
-## JavaScript
-- [JavaScript.info](https://javascript.info/) — Sabse detailed aur beginner-friendly. ⏳
-- [freeCodeCamp JS Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) — Practice ke saath. ⏳
+(NEW) MERN Stack Full Course | Complete Full Stack Developer Roadmap🚀
+Link: (https://youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn&si=oL1k7yF407c5P2Ga) Total: 13 videos • Channel:Sheryians Coding School
 
-## React
-- [React Official Docs (new)](https://react.dev/) — Official aur updated docs. ⏳
+
 
 ## Practice / Projects
 - [Frontend Mentor](https://www.frontendmentor.io/) — Real design challenges. ⏳
