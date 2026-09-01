@@ -8,9 +8,9 @@ Complete C++ Placement DSA Course -- CodeHelp - by Babbar
 **Total:** 149 videos.. • Channel: CodeHelp - by Babbar
 
 ### Videos
-basics to advanced dsa....
+basic to advaced all the topics are beginner friendly
 
-**Note:** Pura Dsa Roadmap Hai — Dsa basics se lekar Advanced Topic tak
+**Note:** Pura Dsa ka video playlist Hai — Dsa basics se lekar Advanced Topic tak
 
 ## Learning
 - [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) — Structured full roadmap. ⏳
@@ -21,4 +21,4 @@ basics to advanced dsa....
 - [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/) — Concepts + practice. ⏳
 
 ---
-*Neeche naye links add karte raho isi format me.*
+*first step learn one language my suggestion is c++ you interest in competative programming*
